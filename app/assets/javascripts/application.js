@@ -2,5 +2,5 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require
+//= require live_chattr
 //

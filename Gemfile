@@ -10,10 +10,10 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'jquery-rails'
 
-#Added
-# gem 'journey'
-# gem 'puma'
-# gem 'rb-fsevent'
+# Added
+gem 'journey'
+gem 'puma'
+gem 'rb-fsevent'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
